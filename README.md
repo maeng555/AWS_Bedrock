@@ -2,6 +2,7 @@
 
 > 교육 과정 맞춤형 피드백 제공을 위한 AI 시스템  
 > 학생, 교수자, 대학 모두에게 효과적인 학습 환경을 조성합니다.
+> [해커톤 성료](https://www.m-i.kr/news/articleView.html?idxno=1157449)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b9e8b2f2-18bd-42f7-9870-545427f2c947" width="600"/>
